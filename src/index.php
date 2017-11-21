@@ -1,6 +1,8 @@
 <?php 
 	$thisPage="home"; 
-	$pageTitle="Home"; 
+	$pageTitle="Home";
+	$pageDescription="This is your homepage.";
+	$pageKeywords="home, etc, etc";
 	$ROOT = '';
 
 	include( $ROOT.'_includes/header.php');
